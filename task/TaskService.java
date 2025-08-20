@@ -1,3 +1,7 @@
+/**
+ * Manages the lifecycle of {@code Task} objects within an in-memory storage.
+ * Provides CRUD (Create, Read, Update, Delete) operations for tasks, including adding, retrieving, updating, and deleting them.
+ */
 package task;
 
 
